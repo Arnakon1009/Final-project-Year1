@@ -1,0 +1,7 @@
+.env
+git_token.txt
+__pycache__/
+*.pyc
+settings.json
+Plang Sakoon Ngern_Final.zip
+.DS_Store

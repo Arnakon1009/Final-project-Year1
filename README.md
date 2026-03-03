@@ -1,4 +1,4 @@
-# Final-project-Year1
+# Plang Sakoon Ngern
 Final project for Programming 2 | Computer Engineering, Year 1 at KOSEN-KMITL (AY2025)
 
 This application was co-developed with my teammate as our final submission for the Programming 2 course.
